@@ -25,7 +25,7 @@
 
     <fragment
         android:id="@+id/navigation_calls"
-        android:name="com.dicoding.aplikasichat.ui.communities.CommunitiesFragment"
+        android:name="com.dicoding.aplikasichat.ui.call.CallsFragment"
         android:label="@string/title_calls"
-        tools:layout="@layout/fragment_communities" />
+        tools:layout="@layout/fragment_call" />
 </navigation>
