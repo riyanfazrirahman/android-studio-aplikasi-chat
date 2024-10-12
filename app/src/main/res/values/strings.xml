@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AplikasiChat</string>
+
+    <string name="title_chats">Chats</string>
+    <string name="title_communities">Communities</string>
+    <string name="title_calls">Calls</string>
+
+    <string name="title_camera">Camera</string>
+    <string name="title_search">Search</string>
+    <string name="title_new_group">New group</string>
+    <string name="title_new_broadcast">New broadcast</string>
+    <string name="title_linked_devices">Linked devices</string>
+    <string name="title_starred_massages">Starred massages</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_updates">Updates</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+</resources>
